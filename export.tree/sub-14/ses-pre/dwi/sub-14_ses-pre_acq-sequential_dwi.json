@@ -1,0 +1,30 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "WIPdwi_acq-sequentialSENSE",
+    "SeriesNumber": 5,
+    "AcquisitionNumber": 5,
+    "ImageComments": "Upgrade2017",
+    "PhilipsRescaleSlope": 3.35824,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.0244469,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.08599,
+    "RepetitionTime": 7.38428,
+    "ReconMatrixPE": 112,
+    "ImageOrientationPatientDICOM": [
+        0.999571,
+        -0.0206756,
+        0.0207434,
+        0.0195418,
+        0.998379,
+        0.0534488
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20190902",
+    "BidsifyVersion": "0.3.7",
+    "MagneticFieldStrength": 3,
+    "ParallelAcquisitionTechnique": "SENSE",
+    "InstitutionName": "Spinoza Centre for Neuroimaging, location REC"
+}
