@@ -1,0 +1,31 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "T1w",
+    "SeriesNumber": 2,
+    "AcquisitionNumber": 2,
+    "ImageComments": "Upgrade_2017",
+    "PhilipsRescaleSlope": 3.7851,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.00517363,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.00375,
+    "RepetitionTime": 0.008206,
+    "InversionTime": 0.9,
+    "ReconMatrixPE": 240,
+    "ImageOrientationPatientDICOM": [
+        0.997715,
+        0.013019,
+        0.0662904,
+        -0.00888108,
+        0.998016,
+        -0.0623379
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20190902",
+    "BidsifyVersion": "0.3.7",
+    "MagneticFieldStrength": 3,
+    "ParallelAcquisitionTechnique": "SENSE",
+    "InstitutionName": "Spinoza Centre for Neuroimaging, location REC"
+}

@@ -1,0 +1,31 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "task-rest_acq-multiband_bold",
+    "SeriesNumber": 10,
+    "AcquisitionNumber": 10,
+    "ImageComments": "Upgrade_2017",
+    "PhilipsRescaleSlope": 0.77338,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.0396464,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.02763,
+    "RepetitionTime": 0.763994,
+    "ReconMatrixPE": 80,
+    "ImageOrientationPatientDICOM": [
+        0.998206,
+        0.0462715,
+        0.0379867,
+        -0.0441063,
+        0.997457,
+        -0.0559845
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20190902",
+    "BidsifyVersion": "0.3.7",
+    "MagneticFieldStrength": 3,
+    "ParallelAcquisitionTechnique": "SENSE",
+    "InstitutionName": "Spinoza Centre for Neuroimaging, location REC",
+    "TaskName": "restingstate"
+}

@@ -1,0 +1,31 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "WIPtask-harriri_acq-sequential_boldSENSE",
+    "SeriesNumber": 8,
+    "AcquisitionNumber": 8,
+    "ImageComments": "Upgrade2017",
+    "PhilipsRescaleSlope": 0.78462,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.0513873,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.02763,
+    "RepetitionTime": 2,
+    "ReconMatrixPE": 80,
+    "ImageOrientationPatientDICOM": [
+        0.999785,
+        0.0201929,
+        0.00478004,
+        -0.0197205,
+        0.996274,
+        -0.0839624
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20190902",
+    "BidsifyVersion": "0.3.7",
+    "MagneticFieldStrength": 3,
+    "ParallelAcquisitionTechnique": "SENSE",
+    "InstitutionName": "Spinoza Centre for Neuroimaging, location REC",
+    "TaskName": "emomatching"
+}

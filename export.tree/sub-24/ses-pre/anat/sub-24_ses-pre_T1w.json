@@ -1,0 +1,30 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "WIPT1wSENSE",
+    "SeriesNumber": 2,
+    "AcquisitionNumber": 2,
+    "ImageComments": "Upgrade2017",
+    "PhilipsRescaleSlope": 11.9155,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.00485774,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.00378,
+    "RepetitionTime": 0.008233,
+    "ReconMatrixPE": 240,
+    "ImageOrientationPatientDICOM": [
+        0.998055,
+        0.0420638,
+        -0.0460071,
+        -0.0460197,
+        0.995003,
+        -0.0886075
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20190902",
+    "BidsifyVersion": "0.3.7",
+    "MagneticFieldStrength": 3,
+    "ParallelAcquisitionTechnique": "SENSE",
+    "InstitutionName": "Spinoza Centre for Neuroimaging, location REC"
+}
